@@ -3,7 +3,9 @@ import "./header.css";
 
  function Header() {
   return (
-    <div>index</div>
+    <div className='header absolute-center cur-po'>
+      <span className='heading-gradient'>Devloop </span>
+    </div>
   )
 }
 
