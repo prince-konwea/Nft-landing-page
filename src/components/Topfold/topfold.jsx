@@ -13,7 +13,9 @@ import "./topfold.css"
             Generation Of Digital Creators. Discover THe Best Nft Collections.
             </div>
             <div className='tf-left-buttons'>
-               <Button  />
+               <Button  btnType="PRIMARY" btnText="EXPLORE" />
+               <Button  btnType="SECONDARY" btnText="CREATE" />
+
             </div>
         </div>
         <div className='tf-right'></div>
